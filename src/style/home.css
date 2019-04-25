@@ -1,0 +1,21 @@
+#title{
+  position: absolute;
+  top:  48vh;
+  left: 35%;
+  color: white;
+}
+
+/* vertical-align: middle;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: auto; */
+
+#homePage{
+  background: url('../images/HomePageBG2.jpg')no-repeat center;
+  height: 100vh;
+  -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
