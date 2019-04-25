@@ -1,8 +1,9 @@
 #title{
   position: absolute;
   top:  48vh;
-  left: 35%;
+  left: 26vw;
   color: white;
+  font-size: 5vw;
 }
 
 /* vertical-align: middle;
@@ -12,7 +13,7 @@ margin-right: auto;
 margin-bottom: auto; */
 
 #homePage{
-  background: url('../images/HomePageBG2.jpg')no-repeat center;
+  background: url('../images/homepage/2.jpg')no-repeat center;
   height: 100vh;
   -webkit-background-size: cover;
     -moz-background-size: cover;
